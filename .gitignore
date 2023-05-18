@@ -1,0 +1,9 @@
+docs/swagger.yaml
+
+module.exports = {
+  google: {
+    clientID: '<>',
+    clientSecret: '<>',
+    callbackURL: '/auth/google/callback',
+  },
+};
